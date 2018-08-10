@@ -1,3 +1,6 @@
+create database newdb;
+use newdb;
+
 drop table if exists Película_Director_Observaciones;
 drop table if exists Pelicula;
 drop table if exists Director;
